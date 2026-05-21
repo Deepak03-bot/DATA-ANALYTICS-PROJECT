@@ -1,0 +1,8 @@
+REPORTING_PERIOD_START,REPORTING_PERIOD_END,GROUP_TYPE,ORG_CODE1,ORG_NAME1,ORG_CODE2,ORG_NAME2,MEASURE_ID,MEASURE_NAME,MEASURE_VALUE_SUPPRESSED
+2026-03-01,2026-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M050,Mean_WaitFinishedCourseTreatment,23.2
+2026-03-01,2026-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M050,Mean_WaitFinishedCourseTreatment,23.0
+2026-03-01,2026-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M050,Mean_WaitFinishedCourseTreatment,18.2
+2026-03-01,2026-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M050,Mean_WaitFinishedCourseTreatment,28.6
+2026-03-01,2026-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M050,Mean_WaitFinishedCourseTreatment,26.7
+2026-03-01,2026-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M050,Mean_WaitFinishedCourseTreatment,30.4
+2026-03-01,2026-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M050,Mean_WaitFinishedCourseTreatment,25.2
